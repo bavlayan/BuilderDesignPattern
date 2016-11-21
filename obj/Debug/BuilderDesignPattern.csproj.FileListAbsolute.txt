@@ -1,0 +1,6 @@
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe.config
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.exe
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\bin\Debug\BuilderDesignPattern.pdb
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.exe
+c:\users\batuhanavlayan\documents\visual studio 2015\Projects\BuilderDesignPattern\BuilderDesignPattern\obj\Debug\BuilderDesignPattern.pdb
